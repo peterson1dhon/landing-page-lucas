@@ -39,6 +39,10 @@ header .logo{
   text-shadow: var(--box-shadow);
 }
 
+header .logo em{
+  color: var(--blue);
+}
+
 .navbar ul{
   list-style: none;
   display: flex;
